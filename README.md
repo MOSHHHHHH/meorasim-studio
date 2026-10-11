@@ -15,7 +15,7 @@
 
 ## GitHub Pages
 
-ב־Settings → Pages בחרו Deploy from a branch, ענף main ותיקיית / (root). הפרסום מתעדכן לאחר כל שינוי ב־main.
+האתר מתפרסם אוטומטית מכל שינוי בענף main באמצעות `.github/workflows/static.yml`. ב־Settings → Pages המקור הוא GitHub Actions.
 
 ## רישיונות
 
